@@ -2,6 +2,9 @@
     height: 244px;
     width:  244px;
     background-color: rgb(8, 8, 8);
+    margin-left: 45%;
+    margin-top: 100px;
+    border-radius: 2px;
 }
 .div1{
     position: relative;
@@ -16,7 +19,7 @@
     /*box-shadow: 0px 0px 0px 5px rgba(154, 142, 142, 0.01),
     0px 0px 0px 4px rgba(236, 230, 230, 0.2);*/
     margin-top: 5px;
-    height: 15px;
+    height: 16px;
     width: 15px;
     background-color: rgb(149, 155, 159);
     animation: animate 5s ease-in-out  infinite;
