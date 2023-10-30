@@ -15,7 +15,7 @@
     border-radius: 1px;
     /*box-shadow: 0px 0px 0px 5px rgba(154, 142, 142, 0.01),
     0px 0px 0px 4px rgba(236, 230, 230, 0.2);*/
-    
+    margin-top: 5px;
     height: 15px;
     width: 15px;
     background-color: rgb(149, 155, 159);
@@ -25,7 +25,7 @@
 @keyframes animate {
     0%{
         background-color: rgb(36, 34, 34, 0.5);
-        transform: scale(0.5);
+        transform: scale(1.5);
     }
     15%{
         background-color: rgb(24, 24, 24) ;
@@ -33,7 +33,7 @@
     50%
     {
         background-color: rgb(102, 102, 109);
-        transform:scale() ;
+        
     }
     70%{
         background-color: rgb(24, 24, 24) ;
